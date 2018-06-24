@@ -47,4 +47,5 @@ REST URL: http://localhost:8080/api/v1/ip
 # 4) Check if an IP address is present in the blacklist
 REST URL: http://localhost:8080/api/v1/ip/1
 METHOD: GET
-SAMPLE JSON RESPONSE: true       
+SAMPLE JSON RESPONSE: true
+
