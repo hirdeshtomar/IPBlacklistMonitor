@@ -17,6 +17,7 @@ Below are the details of the REST endpoint URLs with sample request/response.
 	        "hostName": "ddd.com"
 	    }
 
+
 2) Delete a filtering configuration from the blacklist
  REST URL: http://localhost:8080/api/v1/ip/1 METHOD: DELETE 
 “1” appended at the URL end is the id of the blacklisted url.
